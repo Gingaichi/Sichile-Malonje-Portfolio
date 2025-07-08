@@ -3,3 +3,11 @@
 *{
   font-family: Outfit;
 }
+
+.shadow-manga {
+  box-shadow: 8px 8px 0 #000;
+}
+
+.shadow-mangaHover {
+  box-shadow: 12px 12px 0 #000;
+}
