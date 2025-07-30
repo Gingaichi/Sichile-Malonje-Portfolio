@@ -3,9 +3,9 @@ import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
-    title: "Student & Work Permit Management System",
-    description: "A Student and Work Permit Management System for Botswana built with Laravel for the backend, Flask for facial authentication using OpenCV, and Stripe for secure online payments. Features include permit application, biometric verification, and real-time permit status tracking.",
-    link: "https://immigrationbw-main-ssxsqs.laravel.cloud/landing"
+  title: "Chakudya – Restaurant Ordering App",
+  description: "A responsive restaurant web app for ordering food online, built with React, Tailwind CSS, and Context API. Supports meal browsing, category filters, and cart functionality.",
+  link: "https://chakudya-three.vercel.app/"
   },
   {
     title: "E-commerce website for local Malawian businesses",
@@ -16,6 +16,11 @@ const projects = [
     title: "AI Portfolio Generator",
     description: "A website built with Next.js that lets users quickly create personalized portfolio websites by filling out a form.",
     link: "https://ai-portfolio-website-generator.vercel.app/"
+  },
+  {
+    title: "Student & Work Permit Management System",
+    description: "A Student and Work Permit Management System for Botswana built with Laravel for the backend, Flask for facial authentication using OpenCV, and Stripe for secure online payments. Features include permit application, biometric verification, and real-time permit status tracking.",
+    link: "https://immigrationbw-main-ssxsqs.laravel.cloud/landing"
   }
 ];
 
