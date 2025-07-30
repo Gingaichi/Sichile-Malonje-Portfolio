@@ -8,6 +8,11 @@ const projects = [
   link: "https://chakudya-three.vercel.app/"
   },
   {
+  title: "MaFilum – Movie Discovery + Movie Chatbot recommendation App",
+  description: "A movie app built with React, Vite, and Tailwind CSS integrated with the OMDb API. Features include movie search, favorites management, and a chatbot that recommends movies based on your mood.",
+  link: "https://ma-filum.vercel.app/"
+},
+  {
     title: "E-commerce website for local Malawian businesses",
     description: "An e-commerce platform for Malawian businesses built using Next.js, Supabase, Stripe & Zustand.",
     link: "https://za-malawi.vercel.app/"
