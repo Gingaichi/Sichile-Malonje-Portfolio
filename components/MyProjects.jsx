@@ -3,6 +3,11 @@ import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
+  title: " Letterboxd Wrapped 2025",
+  description: "A cinematic breakdown of your 2025 Letterboxd journey. Your habits, your ratings and your taste.",
+  link: "https://letterboxd-wrapped-nu.vercel.app/"
+  },
+  {
   title: "Chakudya – Restaurant Ordering App",
   description: "A responsive restaurant web app for ordering food online, built with React, Tailwind CSS, and Context API. Supports meal browsing, category filters, and cart functionality.",
   link: "https://chakudya-three.vercel.app/"
