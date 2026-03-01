@@ -5,7 +5,7 @@ const projects = [
   {
   title: " Letterboxd Blend",
   description: "A website that compares the data of two letterboxd users, checks their compatibility, shared genres, opposite tastes and generates a watchlist based on movies they havent seen yet. Built using Next.js, Supabase and TMDb API",
-  link: "https://letterboxd-wrapped-nu.vercel.app/"
+  link: "https://letterboxd-blend-lac.vercel.app/"
   },
   {
   title: " Letterboxd Wrapped 2025",
