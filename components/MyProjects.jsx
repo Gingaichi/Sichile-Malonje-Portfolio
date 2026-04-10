@@ -3,6 +3,11 @@ import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
+  title: " Letterboxd Blend",
+  description: "Blends the film taste of two letterboxd users and gives them a combinedwatchlist based on films they have not seen yet in their respective watchlists.",
+  link: "https://letterboxd-blend-3kn3.vercel.app/"
+  },
+  {
   title: " Letterboxd Wrapped 2025",
   description: "A cinematic breakdown of your 2025 Letterboxd journey. Your habits, your ratings and your taste built with Next.js and TMDb API",
   link: "https://letterboxd-wrapped-nu.vercel.app/"
