@@ -7,7 +7,7 @@ const projects = [
     description:
       "Blends the film tastes of two Letterboxd users and generates a combined watchlist of movies neither has seen.",
     link: "https://letterboxd-blend-3kn3.vercel.app/",
-    video: "https://www.youtube.com/watch?v=zR_ww0QuANY"
+    video: "https://www.youtube.com/embed/zR_ww0QuANY"
   },
   {
     title: "Letterboxd Wrapped 2025",
