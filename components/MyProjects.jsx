@@ -13,7 +13,7 @@ const projects = [
     title: "Letterboxd Wrapped 2025",
     description:
       "A cinematic breakdown of your 2025 Letterboxd journey. Your habits, ratings, and taste built with Next.js and TMDb API.",
-    link: "https://letterboxd-wrapped-nu.vercel.app/".
+    link: "https://letterboxd-wrapped-nu.vercel.app/",
     video: "https://www.youtube.com/embed/oHzCBpLX3w4"
   },
   {
